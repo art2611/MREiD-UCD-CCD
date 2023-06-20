@@ -1,6 +1,6 @@
 # Submitted to IJCV2023 multimodal special issue - Person ReID in Real-World Surveillance Using Corrupted Multimodal Data
 
-Pytorch code for the Fusion for the [Visual-Infrared Person ReID in Real-World Surveillance Using Corrupted Multimodal Data paperpaper](https://arxiv.org/pdf/2305.00320.pdf). The code was developped on our preliminary work [1] code basis.
+Pytorch code for the Fusion for the [Visual-Infrared Person ReID in Real-World Surveillance Using Corrupted Multimodal Data](https://arxiv.org/pdf/2305.00320.pdf) paper. The code was developped on our preliminary work [1] code basis.
 
 The proposed Multimodal Middle Stream Fusion (MMSF) model and other models* used in our study are available at the following link:
 
